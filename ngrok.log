@@ -40,3 +40,22 @@ t=2023-03-11T20:04:18+0000 lvl=info msg="join connections" obj=join id=0e18880ac
 t=2023-03-11T20:04:18+0000 lvl=info msg="join connections" obj=join id=99ca5985b40f l=127.0.0.1:8080 r=194.15.57.144:9193
 t=2023-03-11T20:04:18+0000 lvl=info msg="join connections" obj=join id=2fe057ad5c65 l=127.0.0.1:8080 r=194.15.57.144:9193
 t=2023-03-11T20:04:18+0000 lvl=info msg="join connections" obj=join id=0a7e2304646d l=127.0.0.1:8080 r=194.15.57.144:9193
+t=2023-03-11T20:15:44+0000 lvl=info msg="join connections" obj=join id=3d9821bb4c21 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:15:44+0000 lvl=info msg="join connections" obj=join id=1800c5515c4c l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:16:16+0000 lvl=info msg="join connections" obj=join id=3682657a0217 l=127.0.0.1:8080 r=140.82.115.243:46133
+t=2023-03-11T20:16:46+0000 lvl=info msg="join connections" obj=join id=be6b218744c5 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:16:46+0000 lvl=info msg="join connections" obj=join id=dd38bab0aaec l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:18:13+0000 lvl=info msg="join connections" obj=join id=2257e49ca5d7 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:18:18+0000 lvl=info msg="join connections" obj=join id=a2ba400ad2ae l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:18:39+0000 lvl=info msg="join connections" obj=join id=47d3ec2f5c72 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=94b323af99fb l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=611af0e5fe86 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=081b87298d0c l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=1751110b3b0e l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=6888195ff3d9 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=bfd4ebf9381b l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=e967e5061552 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:19:07+0000 lvl=info msg="join connections" obj=join id=d80f96effdf9 l=127.0.0.1:8080 r=194.15.57.144:28957
+t=2023-03-11T20:45:44+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-03-11T20:45:44+0000 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2023-03-11T20:45:44+0000 lvl=info msg="accept failed" obj=csess id=374c11fdca35 err="reconnecting session closed"
